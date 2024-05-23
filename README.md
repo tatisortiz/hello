@@ -1,5 +1,7 @@
-# hello
+###########  BIENVENIDOS 
 
-# mi primera edicion de github
+trabajo en equipo es la clave para todo
 
-editado desde la rama new future
+tipo de juegos
+
+
